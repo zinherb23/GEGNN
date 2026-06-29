@@ -4,7 +4,7 @@ A Graph Embedding-Enhanced GNN for Power Control in Device-to-Device Communicati
 
 🛠️ Tech Stack & Dependencies
 <br>
-Language: Python3
+Language: Python3  
 Deep Learning: PyTorch, PyTorch Geometric
 
 📁 Project Structure
