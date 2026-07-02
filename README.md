@@ -10,14 +10,14 @@ Deep Learning: PyTorch, PyTorch Geometric
 📁 Project Structure
 <br>
 ```text
-├── baselines/          # Non-ML optimization baselines and reference algorithms
-├── config/             # Centralized hyperparameter and experiment configurations
-├── experiments/        # Execution scripts for benchmarks and comparisons
-├── graph/              # Graph construction and dataset
+├── baselines/          # baseline algorithm
+├── config/             # metadata
+├── experiments/        # execution scripts
+├── graph/              # graph construction
 ├── metrics/            # loss functions and evaluation
 ├── models/             # GNN models
-├── simulation/         # Environment generation
-└── training/           # Core training loops and validation
+├── simulation/         # wireless environment
+└── training/           # training logic
 ```
 
 📚 Reference
